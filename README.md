@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soberdaniel
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C++ and purchasing a job for development.
+- 💞️ I’m looking to collaborate on AI.
 - 📫 How to reach me ...
 
 <!---
